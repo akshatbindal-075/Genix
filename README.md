@@ -5,18 +5,22 @@
 <p align="center">
   <img src="assets/Banner.jpg" alt="Genix Banner" width="100%">
 </p>
-<p align="center">
-  <img src="assets/Logo.jpg" alt="Genix Logo" width="70" style="vertical-align: middle; margin-right: 12px;">
-  <span style="font-size:42px; font-weight:bold; vertical-align: middle;">Genix</span>
-</p>
+<table align="center">
+<tr>
+<td>
 
-<p align="center">
-  <strong>Multi-Model Generative AI Playground</strong>
-</p>
+<img src="assets/Logo.jpg" width="100">
 
-<p align="center">
-  Generate Images • Create Videos • Text-to-Speech • Image Analysis • More
-</p>
+</td>
+
+<td>
+
+<h1 style="margin:0;">Genix</h1>
+<p style="margin:0;"><strong>Multi-Model Generative AI Playground</strong></p>
+
+</td>
+</tr>
+</table>
 </p>
 
 
