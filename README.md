@@ -2,8 +2,18 @@
 
 <p align="center">
 
-<img src="assets/banner.png" alt="Genix Banner" width="100%">
-<img src="assets/logo.png" alt="Genix Logo" width="180">
+<p align="center">
+  <img src="assets/banner.png" alt="Genix Banner" width="100%">
+</p>
+<p align="center">
+  <img src="assets/logo.png" alt="Genix Logo" width="180">
+</p>
+
+<h1 align="center">Genix</h1>
+
+<p align="center">
+  Multi-Model Generative AI Playground
+</p>
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
