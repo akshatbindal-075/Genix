@@ -1,10 +1,3 @@
-# 🎨 Genix
-
-<p align="center">
-
-<p align="center">
-  <img src="assets/Banner.jpg" alt="Genix Banner" width="100%">
-</p>
 <table align="center">
 <tr>
 <td>
@@ -23,7 +16,11 @@
 </table>
 </p>
 
+<p align="center">
 
+<p align="center">
+  <img src="assets/Banner.jpg" alt="Genix Banner" width="100%">
+</p>
 
 <p align="center">
   Multi-Model Generative AI Playground
