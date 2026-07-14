@@ -6,13 +6,16 @@
   <img src="assets/Banner.jpg" alt="Genix Banner" width="100%">
 </p>
 <p align="center">
-  <img src="assets/logo.png" alt="Genix Logo" width="180">
+  <img src="assets/Logo.png" alt="Genix Logo" width="70" style="vertical-align: middle; margin-right: 12px;">
+  <span style="font-size:42px; font-weight:bold; vertical-align: middle;">Genix</span>
 </p>
 
-<h1 align="center">Genix</h1>
+<p align="center">
+  <strong>Multi-Model Generative AI Playground</strong>
+</p>
 
 <p align="center">
-  Multi-Model Generative AI Playground
+  Generate Images • Create Videos • Text-to-Speech • Image Analysis • More
 </p>
 </p>
 
