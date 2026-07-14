@@ -1,15 +1,10 @@
-<p align="center">
-  <img src="assets/logo.png" alt="Genix Logo" width="120">
-</p>
-
-<h1 align="center">Genix</h1>
+<h1 align="center">
+  <img src="assets/Logo.jpg" alt="Genix Logo" width="55" valign="middle">
+  Genix
+</h1>
 
 <p align="center">
   <strong>Multi-Model Generative AI Playground</strong>
-</p>
-
-<p align="center">
-  Generate Images • Create Videos • Text-to-Speech • Image Analysis
 </p>
 <p align="center">
 
