@@ -3,10 +3,10 @@
 <p align="center">
 
 <p align="center">
-  <img src="assets/banner.jpg" alt="Genix Banner" width="100%">
+  <img src="assets/Banner.jpg" alt="Genix Banner" width="100%">
 </p>
 <p align="center">
-  <img src="assets/logo.jpg" alt="Genix Logo" width="180">
+  <img src="assets/Logo.jpg" alt="Genix Logo" width="180">
 </p>
 
 <h1 align="center">Genix</h1>
