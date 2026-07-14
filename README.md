@@ -1,21 +1,16 @@
-<table align="center">
-<tr>
-<td>
-
-<img src="assets/Logo.jpg" width="100">
-
-</td>
-
-<td>
-
-<h1 style="margin:0;">Genix</h1>
-<p style="margin:0;"><strong>Multi-Model Generative AI Playground</strong></p>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/logo.png" alt="Genix Logo" width="120">
 </p>
 
+<h1 align="center">Genix</h1>
+
+<p align="center">
+  <strong>Multi-Model Generative AI Playground</strong>
+</p>
+
+<p align="center">
+  Generate Images • Create Videos • Text-to-Speech • Image Analysis
+</p>
 <p align="center">
 
 <p align="center">
