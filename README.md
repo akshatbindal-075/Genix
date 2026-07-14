@@ -14,12 +14,6 @@
 
 <p align="center">
   Multi-Model Generative AI Playground
-</p>
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-</p>
-
 <p align="center">
 An AI-powered multi-model generative playground built using <b>Python</b>, <b>Gradio</b>, <b>Hugging Face Diffusers</b>, and <b>Transformers</b>.
 </p>
