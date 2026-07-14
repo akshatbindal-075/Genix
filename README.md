@@ -11,10 +11,6 @@
 <p align="center">
   <img src="assets/Banner.jpg" alt="Genix Banner" width="100%">
 </p>
-
-<p align="center">
-  Multi-Model Generative AI Playground
-<p align="center">
 An AI-powered multi-model generative playground built using <b>Python</b>, <b>Gradio</b>, <b>Hugging Face Diffusers</b>, and <b>Transformers</b>.
 </p>
 
