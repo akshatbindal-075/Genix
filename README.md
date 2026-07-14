@@ -45,7 +45,7 @@ Designed with a modular architecture, Genix allows developers to easily integrat
 
 | Feature | Model |
 |----------|------|
-| Text-to-Image | Runway ML - Stable Diffusion v1 5 |
+| Text-to-Image | Runway ML - Stable Diffusion v1-5 |
 | Image-to-Video | Stability AI - Stable Video Diffusion img2vid |
 | Text-to-Speech | Kokoro-82M |
 | Depth Estimation | Intel DPT Large |
