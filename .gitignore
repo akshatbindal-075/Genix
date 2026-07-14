@@ -1,0 +1,12 @@
+models/
+checkpoints/
+cache/
+huggingface/
+*.bin
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+venv/
+__pycache__/
+*.pyc

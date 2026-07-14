@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+safetensors
+huggingface_hub
+gradio
+Pillow
+opencv-python
+soundfile
+imageio
+imageio-ffmpeg
+numpy
+kokoro
