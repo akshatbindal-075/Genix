@@ -2,10 +2,16 @@
   <img src="assets/Logo.jpg" alt="Genix Logo" width="55" valign="middle">
   Genix
 </h1>
+<p align="left">
+  <img src="https://shields.io" alt="License: MIT">
+</p>
+
 
 <p align="center">
   <strong>Multi-Model Generative AI Playground</strong>
 </p>
+
+
 <p align="center">
 
 <p align="center">
