@@ -1,6 +1,7 @@
-<p align="left">
-  <img src="assets/banner.png" alt="Genix Banner" width="100%">
-</p>
+<h1 align="left">
+  <img src="assets/Logo.jpg" width="32">
+  Genix
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
