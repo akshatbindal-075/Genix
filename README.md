@@ -1,6 +1,6 @@
 <p align="left">
   <img src="assets/Logo.jpg" alt="Genix Logo" width="55" style="vertical-align:middle;">
-  <strong style="font-size:64px;">Genix</strong>
+  <h1>Genix</h1>
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT">
   <img src="https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge" alt="PyTorch 2.x">
 </p>
