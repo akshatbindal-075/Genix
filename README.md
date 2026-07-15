@@ -1,6 +1,6 @@
 <h1>
   <img src="assets/Logo.jpg" width="40" alt="Genix Logo">
-  <span style="font-size: 56px;">Genix</span>
+  <span style="font-size: 80px;">Genix</span>
 </h1>
 
 <p align="center">
