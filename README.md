@@ -1,7 +1,6 @@
-<h1>
-  <img src="assets/Logo.jpg" width="40" alt="Genix Logo">
-  <span style="font-size: 80px;">Genix</span>
-</h1>
+<p align="left">
+  <img src="assets/banner.png" alt="Genix Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
