@@ -1,4 +1,4 @@
-<h1>
+
 <p align="left">
   <img src="assets/Logo.jpg" width="70"><br>
   <h1 align="center">Genix</h1>
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge">
 </p>
-</h1>
+
 <p align="center">
 
 <p align="center">
