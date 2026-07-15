@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <img src="assets/Logo.jpg" alt="Genix Logo" width="55" valign="middle">
   Genix
 </h1>
