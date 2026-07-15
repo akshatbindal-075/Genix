@@ -4,6 +4,8 @@
 </h1>
 <p align="left">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT">
+  <img src="https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge" alt="PyTorch: 2.x">
+  
 </p>
 
 
