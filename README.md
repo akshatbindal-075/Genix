@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="assets/Logo.jpg" width="38" alt="Genix Logo">
-  Genix
+<h1>
+  <img src="assets/Logo.jpg" width="40" alt="Genix Logo">
+  <span style="font-size: 56px;">Genix</span>
 </h1>
 
 <p align="center">
