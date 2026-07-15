@@ -3,10 +3,9 @@
   Genix
 </h1>
 <p align="left">
-  <a href="https://opensource.org">
-    <img src="https://shields.io" alt="License: MIT">
-  </a>
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT">
 </p>
+
 
 
 <p align="center">
