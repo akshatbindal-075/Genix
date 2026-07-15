@@ -1,10 +1,15 @@
-<h1 align="left">
-  <img src="assets/Logo.jpg" alt="Genix Logo" width="55" align="center">
-  Genix
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" align="center">
-  <img src="https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge" alt="PyTorch 2.x" align="center">
-</h1>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="assets/Logo.jpg" width="55" alt="Genix Logo" valign="middle">
+      <strong style="font-size:32px;">Genix</strong>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT">
+      <img src="https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge" alt="PyTorch 2.x">
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
