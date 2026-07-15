@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/Logo.jpg" width="55" alt="Genix Logo">
+  <img src="assets/Logo.jpg" width="38" alt="Genix Logo">
   Genix
 </h1>
 
