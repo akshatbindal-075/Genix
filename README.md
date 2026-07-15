@@ -1,5 +1,12 @@
-| <img src="assets/Logo.jpg" width="45"> **# Genix** | <div align="right"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"> <img src="https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge"></div> |
-|:---------------------------------------------------|---------------------------------------------------------------:|
+<h1 align="center">
+  <img src="assets/Logo.jpg" width="55" alt="Genix Logo">
+  Genix
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge">
+</p>
 
 
 <p align="center">
