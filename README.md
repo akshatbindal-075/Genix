@@ -1,12 +1,11 @@
 
 <p align="left">
   <img src="assets/Logo.jpg" width="70"><br>
-  <h1 align="center">Genix</h1>
-</p>
-
-<p align="right">
+  <h1 align="left">Genix</h1>\
+  <p align="right">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge">
+</p>
 </p>
 
 <p align="center">
