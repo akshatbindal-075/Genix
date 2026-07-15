@@ -3,13 +3,11 @@
   Genix
 </h1>
 <p align="left">
-  <img src="https://shields.io" alt="License: MIT">
+  <a href="https://opensource.org">
+    <img src="https://shields.io" alt="License: MIT">
+  </a>
 </p>
 
-
-<p align="left">
-  <img src="https://shields.io" alt="License: MIT">
-</p>
 
 <p align="center">
 
